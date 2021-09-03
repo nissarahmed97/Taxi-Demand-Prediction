@@ -4,8 +4,8 @@
 
 <h3>Steps Followed to solve</h3>
 
-1.)Firstly We Discovered that our End customer is Taxi Driver.    
-2.)We framed the problem statement as ,At the given location(NewYorkCity) in next 10 mins predict number of pickups.     
+1.)Firstly it is discovered that our End customer is Taxi Driver.    
+2.)Problem statement can be framed as, At the given location(NewYorkCity) in the next coming 10 mins, predict the number of pickups.     
 3.)Next we defined the constraints such as latency requirement,interpretability and relative errors.    
 4.)We defined the performance metric as Mean Absolute Percentage Error(MAPE)     
 5.)We are taking Train data as March 2016 data and Test data as May 2016.    
